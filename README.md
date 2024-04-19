@@ -7,3 +7,8 @@ This project aims to harness the advancements in deep learning to develop a huma
 The three files：custom_data.yaml, hyp.scratch-low.yaml, and project.py need to be placed in the corresponding locations, respectively, /yolov5/models/, /yolov5/data/hyps/, and /yolov5/.
 
 When the training is complete, you need to change the path of line 6 in the file project.py. Change the url in line 8 so that the mobile device and computer are under the same ip address.
+
+We used the phone as the camera, and the video we got from the test is as follows:
+
+https://github.com/DemoHang2333/DS598_final_project/assets/100853163/aa892861-c8e2-48de-8d3a-0188f75209cc
+
