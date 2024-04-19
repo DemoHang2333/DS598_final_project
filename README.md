@@ -10,5 +10,5 @@ When the training is complete, you need to change the path of line 6 in the file
 
 We used the phone as the camera, and the video we got from the test is as follows:
 
-https://github.com/DemoHang2333/DS598_final_project/assets/100853163/aa892861-c8e2-48de-8d3a-0188f75209cc
+https://github.com/DemoHang2333/DS598_final_project/assets/100853163/2672646d-c432-497f-a40a-11920fa93466
 
