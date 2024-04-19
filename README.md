@@ -1,2 +1,4 @@
 # DS598_final_project
-testingtesting
+The inspiration for this project comes from recent incidents where elderly individuals have suffered due to falls that were not promptly attended to, highlighting a critical area where artificial intelligence can make a substantial difference. By leveraging what we have learned and the deep modeling frameworks developed by researchers, we aim to create a system that not only enhances the safety of the elderly in their homes but also pushes the boundaries of how deep learning technologies can be applied to improve quality of life and care in our society.
+
+This project aims to harness the advancements in deep learning to develop a human motion detection system that significantly contributes to eldercare by ensuring their safety and well-being. With deep learning experiencing rapid innovation across various fields such as image and speech recognition, natural language processing, and medical image analysis, we see a potent opportunity to apply these technologies to create a practical solution that addresses a pressing societal issue—the risk of elderly people suffering from falls without timely assistance.
